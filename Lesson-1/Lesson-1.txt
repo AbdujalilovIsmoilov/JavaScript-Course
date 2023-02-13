@@ -1,0 +1,8 @@
+EcmaScript:
+
+                              V8
+1) Heap 
+2) CallStack
+
+OS - Operation System 
+NSA - National Security Agancy 
